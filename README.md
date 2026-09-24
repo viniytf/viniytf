@@ -36,19 +36,19 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 
 <br><br>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,sqlite" />
 
 <br><br>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 <br><br>
 
@@ -64,125 +64,14 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 | Categoria | Tecnologias |
 |---|---|
-| 💻 Linguagens | Python • JavaScript • Java • PHP |
+| 💻 Linguagens | Python • JavaScript |
 | 🌐 Frontend | HTML • CSS • JavaScript |
-| ⚙️ Backend | Node.js • Java • Spring Boot |
+| ⚙️ Backend | Node.js |
 | 🗄️ Banco de Dados | MySQL • PostgreSQL • SQLite |
-| 🔌 APIs | REST API • Postman |
 | ☁️ Cloud | AWS • Google Cloud • Azure |
 | 🔧 Versionamento | Git • GitHub |
 | 🎨 Design | Figma |
 | 🤖 IA & Automação | Inteligência Artificial • n8n |
-
----
-
-## 🚀 Projetos
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 FaceAccess AI</h3>
-
-Sistema inteligente de controle de acesso utilizando reconhecimento facial, banco de dados, API e dashboard.
-
-<br><br>
-
-<b>Tecnologias:</b>
-
-AI • Face Recognition • Backend • Database • Dashboard
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📰 CheckNews Brasil</h3>
-
-Projeto utilizando inteligência artificial e automação para auxiliar na análise e verificação de informações.
-
-<br><br>
-
-<b>Tecnologias:</b>
-
-AI • n8n • APIs • Automation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏠 Brisa Imóveis</h3>
-
-Sistema web desenvolvido para apresentação e gerenciamento de imóveis.
-
-<br><br>
-
-<b>Tecnologias:</b>
-
-HTML • CSS • JavaScript • PHP • MySQL
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📊 Gestão de Absenteísmo</h3>
-
-Sistema para gerenciamento e análise de presença, faltas, atrasos e indicadores.
-
-<br><br>
-
-<b>Tecnologias:</b>
-
-Backend • Database • Dashboard • Analytics
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 📚 Atualmente Estudando
-
-<div align="center">
-
-**Software Engineering**
-
-████████████████████░░ 90%
-
-**Backend Development**
-
-███████████████░░░░░░░ 75%
-
-**Python**
-
-██████████████░░░░░░░░ 70%
-
-**Java / Spring Boot**
-
-████████████░░░░░░░░░░ 60%
-
-**Databases & SQL**
-
-███████████░░░░░░░░░░░ 55%
-
-**Artificial Intelligence**
-
-██████████░░░░░░░░░░░░ 50%
-
-**Data Analysis**
-
-█████████░░░░░░░░░░░░░ 45%
-
-</div>
 
 ---
 
@@ -208,58 +97,6 @@ Backend • Database • Dashboard • Analytics
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=viniytf&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&bg_color=00000000"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniytf&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=00000000"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=viniytf&theme=transparent&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=777777" width="70%"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniytf&bg_color=00000000&color=FFFFFF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=viniytf&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/viniytf/viniytf/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -268,7 +105,7 @@ Backend • Database • Dashboard • Analytics
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vinicius-pina-ferreira-a58b46380/">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-pina-ferreira-a58b46380/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
