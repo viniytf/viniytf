@@ -54,7 +54,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 ### Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
 
 </div>
 
