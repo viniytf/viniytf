@@ -42,7 +42,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 <br><br>
 
