@@ -60,43 +60,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 ---
 
-## ⚙️ Ferramentas & Tecnologias
-
-| Categoria | Tecnologias |
-|---|---|
-| 💻 Linguagens | Python • JavaScript |
-| 🌐 Frontend | HTML • CSS • JavaScript |
-| ⚙️ Backend | Node.js |
-| 🗄️ Banco de Dados | MySQL • PostgreSQL • SQLite |
-| ☁️ Cloud | AWS • Google Cloud • Azure |
-| 🔧 Versionamento | Git • GitHub |
-| 🎨 Design | Figma |
-| 🤖 IA & Automação | Inteligência Artificial • n8n |
-
----
-
-## 🎯 Objetivos
-
-<div align="center">
-
-| Status | Objetivo |
-|---|---|
-| ✅ | Iniciar Engenharia de Software |
-| ✅ | Desenvolver projetos reais |
-| ✅ | Melhorar fundamentos de programação |
-| ✅ | Estudar Backend |
-| ✅ | Aprender arquitetura de bancos de dados |
-| 🔄 | Aprofundar Java + Spring Boot |
-| 🔄 | Evoluir em Python |
-| 🔄 | Desenvolver aplicações com IA |
-| 🔄 | Aprender deploy e cloud |
-| 🎯 | Trabalhar como Backend Developer |
-| 🎯 | Construir soluções escaláveis |
-
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
