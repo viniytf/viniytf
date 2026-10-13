@@ -6,10 +6,6 @@
 
 <br><br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniytf&style=for-the-badge&color=00F7FF&label=PROFILE%20VIEWS" alt="Profile Views" />
-</div>
-
 </div>
 
 ---
