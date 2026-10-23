@@ -59,7 +59,7 @@ Sistema de controle de acesso de funcionários com reconhecimento facial usando 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,openai" />
 
 <br><br>
 
