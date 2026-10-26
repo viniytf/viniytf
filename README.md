@@ -74,7 +74,7 @@ Sistema de controle financeiro pessoal com lançamentos, orçamentos, dashboard,
 
 <div align="center">
 
-### Languages
+### Linguagens 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react" />
 
@@ -86,13 +86,13 @@ Sistema de controle financeiro pessoal com lançamentos, orçamentos, dashboard,
 
 <br><br>
 
-### Tools
+### Tecnologias
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 <br><br>
 
-### Cloud
+### Nuvem
 
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
 
