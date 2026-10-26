@@ -49,6 +49,23 @@ Sistema de controle de acesso de funcionários com reconhecimento facial usando 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`FinanSee`](https://finansee.up.railway.app/) ↗**
+
+Sistema de controle financeiro pessoal com lançamentos, orçamentos, dashboard, relatórios e um assistente de Inteligência Artificial para ajudar a economizar.
+
+`react` &nbsp; `typescript` &nbsp; `spring boot` &nbsp; `postgresql` &nbsp; `groq`
+
+[![demo](https://img.shields.io/badge/live_demo-0e0e10?style=flat-square&logo=googlechrome&logoColor=00F7FF)](https://finansee.up.railway.app/)
+[![presentation](https://img.shields.io/badge/presentation-0e0e10?style=flat-square&logo=github&logoColor=e2e2e6)](https://github.com/viniytf/FinanSee)
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ---
