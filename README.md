@@ -40,7 +40,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir soluções 
 
 Sistema de controle de acesso de funcionários com reconhecimento facial usando InsightFace, dashboard interativo e relatórios diários gerados por Inteligência Artificial.
 
-`react` &nbsp; `python` &nbsp; `fastapi` &nbsp; `supabase` &nbsp; `insightface`
+`react` &nbsp; `python` &nbsp; `fastapi` &nbsp; `supabase` &nbsp; `insightface` &nbsp; `groq`
 
 [![demo](https://img.shields.io/badge/live_demo-0e0e10?style=flat-square&logo=googlechrome&logoColor=00F7FF)](LINK_DO_SISTEMA)
 [![presentation](https://img.shields.io/badge/presentation-0e0e10?style=flat-square&logo=github&logoColor=e2e2e6)](LINK_DO_REPOSITORIO_DE_APRESENTACAO)
