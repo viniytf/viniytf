@@ -66,6 +66,23 @@ Sistema de controle financeiro pessoal com lançamentos, orçamentos, dashboard,
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[`Barber & Co`](https://barberco.up.railway.app/) ↗**
+
+Sistema de agendamento online para barbearias e salões de beleza, com agenda por cabeleireiro, serviços combinados e painel de gestão com indicadores para o dono.
+
+`react` &nbsp; `typescript` &nbsp; `python` &nbsp; `fastapi` &nbsp; `postgresql` &nbsp; `supabase` &nbsp; `railway`
+
+[![demo](https://img.shields.io/badge/live_demo-0e0e10?style=flat-square&logo=googlechrome&logoColor=00F7FF)](https://barberco.up.railway.app/)
+[![presentation](https://img.shields.io/badge/presentation-0e0e10?style=flat-square&logo=github&logoColor=e2e2e6)](https://github.com/viniytf/Barber)
+
+</td>
+</tr>
+</table>
+
 <br>
 
 ---
